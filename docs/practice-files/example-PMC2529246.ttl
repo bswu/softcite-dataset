@@ -25,7 +25,7 @@ pmcid:PMC2529246 rdf:type bioj:article ;
 
     ca:isTargetOf
         [ rdf:type ca:CodeApplication ;
-          ca:hasCoder "USERNAME" ;
+          ca:hasCoder "bswu" ;
           ca:appliesCode [ rdf:type citec:coded_no_in_text_mentions ;
                            citec:isPresent false; # true/false
                          ] ;
