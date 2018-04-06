@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 .cache/
+=======
+<<<<<<< HEAD
+.cache*
+.cache/*
+=======
+.cache/**
+.cache
+>>>>>>> 447cc09e13ac37ccb74f7ffffc6669925a0fb910
+>>>>>>> 391e27e1a07f96f7d38e305a60fbbab9de842f61
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
